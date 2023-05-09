@@ -109,7 +109,7 @@ Die Docker Images
 
 npm Test
 ![image info](Screenshots/npmtest.PNG)
-![image info](Screenshots/secondnmptest.PNG)
+![image info](Screenshots/secondnmptest.png)
 
 das nodemodul welche vorhanden sein hatt sollen
 ![image info](Screenshots/nodemodul.PNG)
