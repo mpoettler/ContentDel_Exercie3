@@ -94,3 +94,22 @@ use [Postman Collection](https://www.postman.com/collections/68249abda8f8d5ec3f1
 ## Authors
 * Prepared by Harald Schwab, Web Service Development, Notes Example
 * Prepared by Michael Ulm, Continuous Delivery
+
+
+
+# Exerciese 3
+
+Alle Schritte konnten Durchgeführt es gab am Anfang ein paar Probleme mit dem Setup welche sich jedoch durch online Recherche beheben lassen konnten.
+
+Die durch docker compose erstellten container
+![image info](Screenshots/dockercontainer.png)
+
+Die Docker Images
+![image info](Screenshots/dockerimages.png)
+
+npm Test
+![image info](Screenshots/npmtest.png)
+![image info](Screenshots/secondnmptest.png)
+
+das nodemodul welche vorhanden sein hatt sollen
+![image info](Screenshots/nodemodul.png)
