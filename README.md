@@ -102,14 +102,14 @@ use [Postman Collection](https://www.postman.com/collections/68249abda8f8d5ec3f1
 Alle Schritte konnten Durchgeführt es gab am Anfang ein paar Probleme mit dem Setup welche sich jedoch durch online Recherche beheben lassen konnten.
 
 Die durch docker compose erstellten container
-![image info](Screenshots/dockercontainer.png)
+![image info](Screenshots/dockercontainer.PNG)
 
 Die Docker Images
-![image info](Screenshots/dockerimages.png)
+![image info](Screenshots/dockerimages.PNG)
 
 npm Test
-![image info](Screenshots/npmtest.png)
-![image info](Screenshots/secondnmptest.png)
+![image info](Screenshots/npmtest.PNG)
+![image info](Screenshots/secondnmptest.PNG)
 
 das nodemodul welche vorhanden sein hatt sollen
-![image info](Screenshots/nodemodul.png)
+![image info](Screenshots/nodemodul.PNG)
